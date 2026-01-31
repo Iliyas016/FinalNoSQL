@@ -19,11 +19,10 @@ Ensure **MongoDB** is running locally on `localhost:27017`.
 
 
 3. **Run the Backend**
-Start the FastAPI server:
-```bash
-uvicorn main:app --reload
+   Start the FastAPI server:
+   ```bash
+   uvicorn main:app --reload
 
-```
 
 
 4. **Launch the Frontend**
